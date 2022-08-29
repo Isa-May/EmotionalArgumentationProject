@@ -5,7 +5,7 @@
 
 This code base gives insights into the work of my master's thesis. 
 
-Studies have shown that people are sometimes more easily convinced by an argument if it triggers emotions.
+Studies have shown that people are sometimes more easily convinced by an argument if it triggers emotions than if it is merely based on facts.
 
 Being able to automatically mine corpora for such arguments (simply addressed as 'emotional arguments') can find application in risk management,  
 as in communicating health implications that can come with smoking or explaining possible consequences of climate change. 
