@@ -34,7 +34,7 @@ to enable ensemble learning through a shared linear layer
 
 2) The Huggingface implementation (slightly adapted from Team Orange (MIT Licence))
 
-### Data Visualization 
+### Data Visualisation 
 1. #### Example pie plot (jupyter notebook) 
    ![pieplots](images/pie_plot.png)
 
