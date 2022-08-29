@@ -6,7 +6,7 @@ Aim of the thesis was to build machine learning models able to detect arguments 
 in communicating health implications that can come with smoking. While some people might be convinced by arguments based on facts and figures, others are persuaded when arguments also trigger 
 emotions like fear. The latter type of arguments are referred to as arguments with pathos or emotional appeal. 
 
-A pre-trained BERT model (https://arxiv.org/pdf/1810.04805.pdf) was fine-tuned for emotion detection and retrained resulting in model variants as given in the following image. 
+A pre-trained BERT model (https://arxiv.org/pdf/1810.04805.pdf) was fine-tuned for emotion detection, and retrained resulting in model variants as given in the following image. 
 
 ![My BERT variants](images/myBERTvariants.png)
 
