@@ -1,5 +1,5 @@
 ## Project description and aim 
-This project gives insights into the code of my master's thesis in order to display my current skill set. 
+This project gives insights into the code of my master's thesis. 
 
 ## Detecting arguments with pathos (emotional appeal)
 Aim of the thesis was to build machine learning models able to detect arguments with pathos, i.e. emotional appeal. Such arguments can for example be useful in risk management, as
