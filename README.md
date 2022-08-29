@@ -11,6 +11,8 @@ Being able to automatically mine corpora for such arguments (simply addressed as
 Further, according to research, people who are easily convinced by emotional arguments, are also oftentimes prone to believe in propaganda and fake news. 
 Providing a tool detecting emotional arguments can hence help e.g. the social sciences to develop a better understanding of this matter. 
 
+An excerpt of the arguments classified as '(non-)emotional' in this project can be found here: <a href="https://github.com/Isa-May/EmoArgumentPool"> EmoArgumentPool</a>.
+
 In the original project, the models were trained on an NVIDIA Tesla V100 from an Ubuntu 20.02 machine with an AMD Ryzen Processor, 32 CPU Cores, and 126 GB memory. Python 3.8.10, Pytorch 1.8.0 + cu111, the Huggingface Transformer library 4.5.1, and the Huggingface Dataset library 1.6.2 were used.
 
 **However, the project as displayed here only shows excerpts of the code for demonstration purposes and is not set up to be runnable as is.**
