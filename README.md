@@ -32,7 +32,7 @@ Two variants of implementing the machine learning cycle of training, validating 
 1) The PyTorch Native implementation, where the BERT model's architecture is adapted
 to enable ensemble learning through a shared linear layer
 
-2) The Huggingface implementation (slightly adapted from Team Orange (MIT Licence))
+2) The Huggingface implementation 
 
 Copyright notices:
 The class BertForSequenceClassification from https://github.com/huggingface/transformers/blob/main/src/transformers/models/bert/modeling_bert.py
@@ -43,7 +43,12 @@ was
 This is the copright notice for the BertForSequenceClassification class: 
 Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc. team.
 Copyright (c) 2018, NVIDIA CORPORATION. All rights reserved.
-Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the Apache License, Version 2.0 (the "License").
+
+Further, especially model variant 2, the Huggingface implementation, was a further development of the code 
+created in a practical preceding my thesis. This is the copyright notice: 
+The MIT License (MIT)
+Copyright (c) 2021, Team Orange.
 
 ### Data Visualisation 
 1. #### Example pie plot (jupyter notebook) 
