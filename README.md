@@ -34,6 +34,17 @@ to enable ensemble learning through a shared linear layer
 
 2) The Huggingface implementation (slightly adapted from Team Orange (MIT Licence))
 
+Copyright notices:
+The class BertForSequenceClassification from https://github.com/huggingface/transformers/blob/main/src/transformers/models/bert/modeling_bert.py
+was
+1) adapted for the purposes of creating a shared linear layer for model variant 1
+2) imported to better understand the code's inner working for model variant 2 with only minor modifications
+
+This is the copright notice for the BertForSequenceClassification class: 
+Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc. team.
+Copyright (c) 2018, NVIDIA CORPORATION. All rights reserved.
+Licensed under the Apache License, Version 2.0 (the "License");
+
 ### Data Visualisation 
 1. #### Example pie plot (jupyter notebook) 
    ![pieplots](images/pie_plot.png)
