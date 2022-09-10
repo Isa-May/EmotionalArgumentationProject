@@ -45,8 +45,8 @@ Copyright 2018 The Google AI Language Team Authors and The HuggingFace Inc. team
 Copyright (c) 2018, NVIDIA CORPORATION. All rights reserved.
 Licensed under the Apache License, Version 2.0 (the "License").
 
-Further, especially model variant 2, the Huggingface implementation, was a further development of the code 
-created in a practical preceding my thesis. This is the copyright notice: 
+Further, especially model variant 2, the Huggingface implementation, was a slight adaptation of the code 
+created in an internship I participated in, preceding my thesis. This is the copyright notice: 
 The MIT License (MIT)
 Copyright (c) 2021, Team Orange.
 
